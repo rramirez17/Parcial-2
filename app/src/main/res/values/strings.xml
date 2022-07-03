@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PARCIAL_N2_GRUPO4</string>
+    <string name="tvtitulo">Nombre de especie</string>
+    <string name="tvdescripcion">Descripción</string>
+</resources>
