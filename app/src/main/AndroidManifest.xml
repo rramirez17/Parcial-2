@@ -18,7 +18,9 @@
             android:exported="false" />
         <activity
             android:name=".EspecieActivity"
-            android:exported="false" />
+            android:parentActivityName=".MainActivity"
+            android:label="Details"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
